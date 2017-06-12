@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^2.2.0",
+    "koa-simple-router": "^0.2.0",
+    "koa-static": "^3.0.0",
+    "koa-swig": "^2.2.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "swig": "^1.4.2",
+    "x-tag": "^1.5.11"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "x-tag": "^1.5.11"
+  }
+}
